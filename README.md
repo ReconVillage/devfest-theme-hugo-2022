@@ -17,7 +17,7 @@ Note that requires the [Node](https://nodejs.org/en/) toolchains
 hugo new site my-conf
 cd my-conf
 mkdir themes
-git submodule add https://github.com/GDGToulouse/devfest-theme-hugo.git themes/devfest-theme-hugo
+git submodule add https://github.com/ReconVillage/devfest-theme-hugo-2022.git themes/devfest-theme-hugo
 
 pushd themes/devfest-theme-hugo
 npm install
