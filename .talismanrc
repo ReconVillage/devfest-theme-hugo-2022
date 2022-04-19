@@ -1,0 +1,7 @@
+fileignoreconfig:
+- filename: README.md
+  checksum: 901813d467de4afe8170372c6967252326f044f72eb8c07e7ef08f9ff2ad0e04
+- filename: yarn.lock
+  checksum: 0640dea5cfd3f20821295263a4e4daeb9a7d922420214bd90b2a303d94a5e182
+- filename: package-lock.json
+  checksum: 198207d3af74394c7aef17ba892428ed614c2d087f102feae878b4565c3e9478
